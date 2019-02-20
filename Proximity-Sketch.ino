@@ -63,7 +63,7 @@ void loop()
  
     //******************************************************************************
 
-    if (inches < 12) { // sensor detects obect within 12 inches
+    if (inches < 12) { // sensor detects object within 12 inches
       
       // Print a message to the LCD.
       delay(15);
@@ -111,7 +111,7 @@ void loop()
 
     //******************************************************************************
     
-    if (inches < 12) { // sensor detects obect within 12 inches
+    if (inches < 12) { // sensor detects object within 12 inches
       
       // Print a message to the LCD.
       delay(15);
